@@ -4,4 +4,18 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <TextView
+        android:id="@+id/name_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/gilberto"
+        android:layout_marginTop="16dp"
+        android:paddingTop="8dp"/>
+
+        <ImageView
+            android:id="@+id/star_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/btn_star_big_on"
+            android:contentDescription="@string/star_image_desc"/>
 </LinearLayout>

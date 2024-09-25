@@ -1,21 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- res/layout/activity_main.xml -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:ignore="UseCompoundDrawables">
 
     <TextView
         android:id="@+id/name_text"
+        style="@style/CustomTextViewStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/gilberto"
         android:layout_marginTop="16dp"
         android:paddingTop="8dp"/>
 
-        <ImageView
-            android:id="@+id/star_image"
+    <ImageView
+        android:id="@+id/star_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/btn_star_big_on"
+        android:contentDescription="@string/star_image_desc"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp">
+
+        <LinearLayout
+            android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:src="@android:drawable/btn_star_big_on"
-            android:contentDescription="@string/star_image_desc"/>
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@android:drawable/btn_star_big_on"
+                android:contentDescription="@string/star_image_desc"/>
+
+            <TextView
+                android:id="@+id/info_text"
+                style="@style/NameStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/about_me"
+                android:padding="16dp"
+                android:lineSpacingMultiplier="@dimen/line_spacing_multiplier"/>
+        </LinearLayout>
+    </ScrollView>
 </LinearLayout>

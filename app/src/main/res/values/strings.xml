@@ -3,4 +3,6 @@
     <string name="gilberto">Gilberto</string>
     <string name="star_image_desc">Star image description</string>
     <string name="about_me">Soy Gilbert</string>
+    <string name="enter_your_nickname">Enter your nickname</string>
+    <string name="done">Done</string>
 </resources>

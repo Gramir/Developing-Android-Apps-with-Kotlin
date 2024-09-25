@@ -50,4 +50,26 @@
                 android:lineSpacingMultiplier="@dimen/line_spacing_multiplier"/>
         </LinearLayout>
     </ScrollView>
+
+    <EditText
+        android:id="@+id/nickname_edit"
+        style="@style/NameStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints="nickname"
+        android:hint="@string/enter_your_nickname"
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/nickname_text"
+        style="@style/NameStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/done_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/done"/>
 </LinearLayout>

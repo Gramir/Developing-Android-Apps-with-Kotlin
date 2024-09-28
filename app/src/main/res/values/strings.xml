@@ -5,4 +5,9 @@
     <string name="box_three">Box Three</string>
     <string name="box_four">Box Four</string>
     <string name="box_five">Box Five</string>
+    <string name="label">Label</string>
+    <string name="info">Information</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="yellow">Yellow</string>
 </resources>

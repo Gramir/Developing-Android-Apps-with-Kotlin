@@ -40,6 +40,7 @@ class TitleFragment : Fragment() {
         }
         setHasOptionsMenu(true)
         return binding.root
+        // test here
     }
 
     override fun onCreateOptionsMenu(menu: Menu, inflater: MenuInflater) {

@@ -61,7 +61,6 @@ class GdgListFragment : Fragment() {
 
         viewModel.regionList.observe(viewLifecycleOwner, object: Observer<List<String>> {
             override fun onChanged(value: List<String>) {
-                value
                 val chipGroup = binding.regionList
                 val inflator = LayoutInflater.from(chipGroup.context)
 

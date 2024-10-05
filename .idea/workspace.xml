@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bd706fe-0435-4c45-8baa-18061f123e2b" name="Changes" comment="Exercise: Introduction to the Activity Lifecycle Diagram">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="unit-3.24" />
+      </map>
+    </option>
+    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Gramir&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Gramir/Developing-Android-Apps-with-Kotlin&quot;,
+    &quot;accountId&quot;: &quot;3954a607-7f61-47fb-bd16-47d3485dabd3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2mwphES242vB4bT6WbPVDb7ed5t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "android.gradle.sync.needed": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "Unit-4.4",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/Users/Kylenz/Documents/Dominico/Programacion movil II/Kotlin/andfun-kotlin-android-trivia-starter-code"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bd706fe-0435-4c45-8baa-18061f123e2b" name="Changes" comment="" />
+      <created>1727997609560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727997609560</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Exercise: Project Tour">
+      <option name="closed" value="true" />
+      <created>1728002376069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728002376069</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercise: Creating and Adding a Fragment">
+      <option name="closed" value="true" />
+      <created>1728091863914</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728091863914</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercise: Creating and Adding a Fragment">
+      <option name="closed" value="true" />
+      <created>1728091999368</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728091999368</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Exercise: Conditional Navigation">
+      <option name="closed" value="true" />
+      <created>1728143761271</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728143761271</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Exercise: Back Stack Manipulation">
+      <option name="closed" value="true" />
+      <created>1728143972762</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728143972762</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Exercise: Adding Support for the Up Button">
+      <option name="closed" value="true" />
+      <created>1728144062340</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728144062340</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Exercise: Adding a Menu">
+      <option name="closed" value="true" />
+      <created>1728144160640</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728144160640</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Exercise: Adding Safe Arguments">
+      <option name="closed" value="true" />
+      <created>1728144274863</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728144274863</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Exercise: Adding Sharing with an Intent">
+      <option name="closed" value="true" />
+      <created>1728144343469</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728144343469</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Exercise: Adding the Navigation Drawer">
+      <option name="closed" value="true" />
+      <created>1728144444911</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728144444911</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Exercise: Using Navigation Listeners">
+      <option name="closed" value="true" />
+      <created>1728144612649</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728144612649</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Exercise: Animation with Navigation">
+      <option name="closed" value="true" />
+      <created>1728144662434</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1728144662434</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Exercise: Introduction to the Activity Lifecycle Diagram">
+      <option name="closed" value="true" />
+      <created>1728145432250</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1728145432250</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Exercise: Project Tour" />
+    <MESSAGE value="Exercise: Creating and Adding a Fragment" />
+    <MESSAGE value="Exercise: Conditional Navigation" />
+    <MESSAGE value="Exercise: Back Stack Manipulation" />
+    <MESSAGE value="Exercise: Adding Support for the Up Button" />
+    <MESSAGE value="Exercise: Adding a Menu" />
+    <MESSAGE value="Exercise: Adding Safe Arguments" />
+    <MESSAGE value="Exercise: Adding Sharing with an Intent" />
+    <MESSAGE value="Exercise: Adding the Navigation Drawer" />
+    <MESSAGE value="Exercise: Using Navigation Listeners" />
+    <MESSAGE value="Exercise: Animation with Navigation" />
+    <MESSAGE value="Exercise: Introduction to the Activity Lifecycle Diagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise: Introduction to the Activity Lifecycle Diagram" />
+  </component>
+</project>

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bd706fe-0435-4c45-8baa-18061f123e2b" name="Changes" comment="Exercise: Introduction to the Activity Lifecycle Diagram">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8bd706fe-0435-4c45-8baa-18061f123e2b" name="Changes" comment="Exercise: The Application Class and Timber" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +19,7 @@
         <entry key="$PROJECT_DIR$" value="unit-3.24" />
       </map>
     </option>
-    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_COMMON_BRANCH" value="Unit-4.4" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -58,7 +56,7 @@
     "android.gradle.sync.needed": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "Unit-4.4",
+    "git-widget-placeholder": "Unit-4.5",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "F:/Users/Kylenz/Documents/Dominico/Programacion movil II/Kotlin/andfun-kotlin-android-trivia-starter-code"
@@ -177,7 +175,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728145432250</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Exercise: Introduction to Logging">
+      <option name="closed" value="true" />
+      <created>1728145547032</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728145547032</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Exercise: The Application Class and Timber">
+      <option name="closed" value="true" />
+      <created>1728145679002</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1728145679002</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -194,6 +208,8 @@
     <MESSAGE value="Exercise: Using Navigation Listeners" />
     <MESSAGE value="Exercise: Animation with Navigation" />
     <MESSAGE value="Exercise: Introduction to the Activity Lifecycle Diagram" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise: Introduction to the Activity Lifecycle Diagram" />
+    <MESSAGE value="Exercise: Introduction to Logging" />
+    <MESSAGE value="Exercise: The Application Class and Timber" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise: The Application Class and Timber" />
   </component>
 </project>

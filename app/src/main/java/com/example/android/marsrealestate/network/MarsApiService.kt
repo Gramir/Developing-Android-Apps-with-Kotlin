@@ -17,12 +17,13 @@
 
 package com.example.android.marsrealestate.network
 
+// import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
-import retrofit2.Call
 import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
 import retrofit2.http.GET
+// import kotlinx.coroutines.Deferred
 
 private const val BASE_URL = "https://mars.udacity.com/"
 
@@ -48,12 +49,12 @@ private val retrofit = Retrofit.Builder()
  */
 interface MarsApiService {
     /**
-     * Returns a Retrofit callback that delivers a [List] of [MarsProperty]
+     * Returns a Coroutine [List] of [MarsProperty] which can be fetched with await() if in a Coroutine scope.
      * The @GET annotation indicates that the "realestate" endpoint will be requested with the GET
      * HTTP method
      */
     @GET("realestate")
-    fun getProperties(): Call<List<MarsProperty>>
+    suspend fun getProperties(): List<MarsProperty>
 }
 
 /**
